@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactcard-groot/static/css/main.70763e98.chunk.css",
+    "main.js": "/reactcard-groot/static/js/main.1d5f90df.chunk.js",
+    "main.js.map": "/reactcard-groot/static/js/main.1d5f90df.chunk.js.map",
+    "runtime-main.js": "/reactcard-groot/static/js/runtime-main.9e5abc77.js",
+    "runtime-main.js.map": "/reactcard-groot/static/js/runtime-main.9e5abc77.js.map",
+    "static/js/2.bf855b89.chunk.js": "/reactcard-groot/static/js/2.bf855b89.chunk.js",
+    "static/js/2.bf855b89.chunk.js.map": "/reactcard-groot/static/js/2.bf855b89.chunk.js.map",
+    "index.html": "/reactcard-groot/index.html",
+    "static/css/main.70763e98.chunk.css.map": "/reactcard-groot/static/css/main.70763e98.chunk.css.map",
+    "static/js/2.bf855b89.chunk.js.LICENSE.txt": "/reactcard-groot/static/js/2.bf855b89.chunk.js.LICENSE.txt",
+    "static/media/babygroot.b2062c35.webp": "/reactcard-groot/static/media/babygroot.b2062c35.webp",
+    "static/media/App.css": "/reactcard-groot/static/media/blue-background.f6192768.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e5abc77.js",
+    "static/js/2.bf855b89.chunk.js",
+    "static/css/main.70763e98.chunk.css",
+    "static/js/main.1d5f90df.chunk.js"
+  ]
+}
